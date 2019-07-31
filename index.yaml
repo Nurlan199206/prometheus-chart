@@ -3,11 +3,11 @@ entries:
   prometheus-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-07-31T09:35:35.682439968Z"
+    created: "2019-07-31T11:16:18.404847124Z"
     description: A Helm chart for Kubernetes
-    digest: ffee4d177bf06a98a8ef8f1d734d773f892d687f02e47f153b99c620122dbbb9
+    digest: c797ebfc9df3844d33075271772c29c1f6909e3ac1adc06ca2b0b437ad988f8a
     name: prometheus-chart
     urls:
     - https://nurlan199206.github.io/prometheus-chart/prometheus-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-07-31T09:35:35.681806019Z"
+generated: "2019-07-31T11:16:18.403663306Z"
